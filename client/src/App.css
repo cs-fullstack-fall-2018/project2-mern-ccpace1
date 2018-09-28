@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+    background-color: navy;
+    color: gold;
+}
+
+.App-header {
+  background-color: blue;
+  height: 175px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.username{
+    text-transform: capitalize;
+}
